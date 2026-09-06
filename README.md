@@ -1,8 +1,8 @@
 Trained with Ultralytics YOLO under [GNU AGPL v3](LICENSE).
 
 ## Model
-- Weights: `/content/runs/classify/train/weights/best.pt`
-- Trained with:
+Weights: `/content/runs/classify/train/weights/best.pt`
+Trained with:
 
 ```bash
 yolo classify train model=yolo26n-cls.pt data=/content/dataset epochs=300 patience=100 imgsz=224 fliplr=0.0 scale=0.2 dropout=0.1
