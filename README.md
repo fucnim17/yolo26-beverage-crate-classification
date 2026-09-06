@@ -1,7 +1,7 @@
 Trained with Ultralytics YOLO under [GNU AGPL v3](LICENSE).
 
 ## Model
-- Weights: `/content/runs/classify/train/weights/best.pt`
+- Weights: `/runs/classify/train/weights/best.pt`
 - Trained with:
 
   ```bash
