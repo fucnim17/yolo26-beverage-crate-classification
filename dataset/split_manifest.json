@@ -1,0 +1,1549 @@
+{
+  "erstellt": "2026-09-06T14:10:22",
+  "quelle": "/content/data_lb",
+  "seed": 42,
+  "verhaeltnis": [
+    0.6,
+    0.2,
+    0.2
+  ],
+  "anzahl_klassen": 31,
+  "anzahl_bilder": 306,
+  "verteilung": {
+    "train": 182,
+    "val": 62,
+    "test": 62
+  },
+  "zuordnung": [
+    {
+      "klasse": "Allgäuer Bügel 20x0.50l",
+      "datei": "19700101_045726_1087.jpg",
+      "split": "train"
+    },
+    {
+      "klasse": "Allgäuer Bügel 20x0.50l",
+      "datei": "19700101_045738_1089.jpg",
+      "split": "train"
+    },
+    {
+      "klasse": "Allgäuer Bügel 20x0.50l",
+      "datei": "19700101_045739_1091.jpg",
+      "split": "train"
+    },
+    {
+      "klasse": "Allgäuer Bügel 20x0.50l",
+      "datei": "19700101_045740_1092.jpg",
+      "split": "train"
+    },
+    {
+      "klasse": "Allgäuer Bügel 20x0.50l",
+      "datei": "19700101_045726_1086.jpg",
+      "split": "val"
+    },
+    {
+      "klasse": "Allgäuer Bügel 20x0.50l",
+      "datei": "19700101_045738_1090.jpg",
+      "split": "val"
+    },
+    {
+      "klasse": "Allgäuer Bügel 20x0.50l",
+      "datei": "19700101_045722_1081.jpg",
+      "split": "test"
+    },
+    {
+      "klasse": "Allgäuer Bügel 20x0.50l",
+      "datei": "19700101_045722_1082.jpg",
+      "split": "test"
+    },
+    {
+      "klasse": "Bayr. Brauhaus 20x0.50l",
+      "datei": "19700101_015522_0211.jpg",
+      "split": "train"
+    },
+    {
+      "klasse": "Bayr. Brauhaus 20x0.50l",
+      "datei": "19700101_015502_0205.jpg",
+      "split": "train"
+    },
+    {
+      "klasse": "Bayr. Brauhaus 20x0.50l",
+      "datei": "19700101_015510_0208.jpg",
+      "split": "train"
+    },
+    {
+      "klasse": "Bayr. Brauhaus 20x0.50l",
+      "datei": "19700101_015516_0209.jpg",
+      "split": "train"
+    },
+    {
+      "klasse": "Bayr. Brauhaus 20x0.50l",
+      "datei": "19700101_015227_0193.jpg",
+      "split": "train"
+    },
+    {
+      "klasse": "Bayr. Brauhaus 20x0.50l",
+      "datei": "19700101_015506_0206.jpg",
+      "split": "train"
+    },
+    {
+      "klasse": "Bayr. Brauhaus 20x0.50l",
+      "datei": "19700101_015508_0207.jpg",
+      "split": "val"
+    },
+    {
+      "klasse": "Bayr. Brauhaus 20x0.50l",
+      "datei": "19700101_015549_0213.jpg",
+      "split": "val"
+    },
+    {
+      "klasse": "Bayr. Brauhaus 20x0.50l",
+      "datei": "19700101_015547_0212.jpg",
+      "split": "test"
+    },
+    {
+      "klasse": "Bayr. Brauhaus 20x0.50l",
+      "datei": "19700101_015459_0204.jpg",
+      "split": "test"
+    },
+    {
+      "klasse": "Beck´s Bier 20x0.50l",
+      "datei": "19700101_014613_0151.jpg",
+      "split": "train"
+    },
+    {
+      "klasse": "Beck´s Bier 20x0.50l",
+      "datei": "19700101_014619_0154.jpg",
+      "split": "train"
+    },
+    {
+      "klasse": "Beck´s Bier 20x0.50l",
+      "datei": "19700101_014629_0156.jpg",
+      "split": "train"
+    },
+    {
+      "klasse": "Beck´s Bier 20x0.50l",
+      "datei": "19700101_015130_0168.jpg",
+      "split": "train"
+    },
+    {
+      "klasse": "Beck´s Bier 20x0.50l",
+      "datei": "19700101_014622_0155.jpg",
+      "split": "train"
+    },
+    {
+      "klasse": "Beck´s Bier 20x0.50l",
+      "datei": "19700101_014611_0150.jpg",
+      "split": "train"
+    },
+    {
+      "klasse": "Beck´s Bier 20x0.50l",
+      "datei": "19700101_014617_0153.jpg",
+      "split": "val"
+    },
+    {
+      "klasse": "Beck´s Bier 20x0.50l",
+      "datei": "19700101_014609_0148.jpg",
+      "split": "val"
+    },
+    {
+      "klasse": "Beck´s Bier 20x0.50l",
+      "datei": "19700101_014633_0157.jpg",
+      "split": "test"
+    },
+    {
+      "klasse": "Beck´s Bier 20x0.50l",
+      "datei": "19700101_014615_0152.jpg",
+      "split": "test"
+    },
+    {
+      "klasse": "Bitburger 24x0.33l",
+      "datei": "19700101_042835_0936.jpg",
+      "split": "train"
+    },
+    {
+      "klasse": "Bitburger 24x0.33l",
+      "datei": "19700101_042830_0932.jpg",
+      "split": "train"
+    },
+    {
+      "klasse": "Bitburger 24x0.33l",
+      "datei": "19700101_042821_0924.jpg",
+      "split": "train"
+    },
+    {
+      "klasse": "Bitburger 24x0.33l",
+      "datei": "19700101_030227_0826.jpg",
+      "split": "train"
+    },
+    {
+      "klasse": "Bitburger 24x0.33l",
+      "datei": "19700101_042109_0885.jpg",
+      "split": "train"
+    },
+    {
+      "klasse": "Bitburger 24x0.33l",
+      "datei": "19700101_030214_0820.jpg",
+      "split": "train"
+    },
+    {
+      "klasse": "Bitburger 24x0.33l",
+      "datei": "19700101_042826_0928.jpg",
+      "split": "val"
+    },
+    {
+      "klasse": "Bitburger 24x0.33l",
+      "datei": "19700101_030157_0799.jpg",
+      "split": "val"
+    },
+    {
+      "klasse": "Bitburger 24x0.33l",
+      "datei": "19700101_042111_0890.jpg",
+      "split": "test"
+    },
+    {
+      "klasse": "Bitburger 24x0.33l",
+      "datei": "19700101_042839_0940.jpg",
+      "split": "test"
+    },
+    {
+      "klasse": "Brinkhoffs 20x0.50l",
+      "datei": "19700101_015606_0220.jpg",
+      "split": "train"
+    },
+    {
+      "klasse": "Brinkhoffs 20x0.50l",
+      "datei": "19700101_015908_0302.jpg",
+      "split": "train"
+    },
+    {
+      "klasse": "Brinkhoffs 20x0.50l",
+      "datei": "19700101_015843_0292.jpg",
+      "split": "train"
+    },
+    {
+      "klasse": "Brinkhoffs 20x0.50l",
+      "datei": "19700101_015602_0218.jpg",
+      "split": "train"
+    },
+    {
+      "klasse": "Brinkhoffs 20x0.50l",
+      "datei": "19700101_015828_0282.jpg",
+      "split": "train"
+    },
+    {
+      "klasse": "Brinkhoffs 20x0.50l",
+      "datei": "19700101_015914_0304.jpg",
+      "split": "train"
+    },
+    {
+      "klasse": "Brinkhoffs 20x0.50l",
+      "datei": "19700101_015555_0215.jpg",
+      "split": "val"
+    },
+    {
+      "klasse": "Brinkhoffs 20x0.50l",
+      "datei": "19700101_015600_0217.jpg",
+      "split": "val"
+    },
+    {
+      "klasse": "Brinkhoffs 20x0.50l",
+      "datei": "19700101_015823_0280.jpg",
+      "split": "test"
+    },
+    {
+      "klasse": "Brinkhoffs 20x0.50l",
+      "datei": "19700101_015604_0219.jpg",
+      "split": "test"
+    },
+    {
+      "klasse": "Budweiser 20x0.50l",
+      "datei": "19700101_014607_0147.jpg",
+      "split": "train"
+    },
+    {
+      "klasse": "Budweiser 20x0.50l",
+      "datei": "19700101_015122_0164.jpg",
+      "split": "train"
+    },
+    {
+      "klasse": "Budweiser 20x0.50l",
+      "datei": "19700101_015116_0161.jpg",
+      "split": "train"
+    },
+    {
+      "klasse": "Budweiser 20x0.50l",
+      "datei": "19700101_014600_0141.jpg",
+      "split": "train"
+    },
+    {
+      "klasse": "Budweiser 20x0.50l",
+      "datei": "19700101_014605_0145.jpg",
+      "split": "train"
+    },
+    {
+      "klasse": "Budweiser 20x0.50l",
+      "datei": "19700101_015128_0167.jpg",
+      "split": "train"
+    },
+    {
+      "klasse": "Budweiser 20x0.50l",
+      "datei": "19700101_014602_0143.jpg",
+      "split": "val"
+    },
+    {
+      "klasse": "Budweiser 20x0.50l",
+      "datei": "19700101_014557_0139.jpg",
+      "split": "val"
+    },
+    {
+      "klasse": "Budweiser 20x0.50l",
+      "datei": "19700101_015118_0162.jpg",
+      "split": "test"
+    },
+    {
+      "klasse": "Budweiser 20x0.50l",
+      "datei": "19700101_014549_0136.jpg",
+      "split": "test"
+    },
+    {
+      "klasse": "Coca Cola 20x0.50l",
+      "datei": "19700101_021749_0767.jpg",
+      "split": "train"
+    },
+    {
+      "klasse": "Coca Cola 20x0.50l",
+      "datei": "19700101_021804_0771.jpg",
+      "split": "train"
+    },
+    {
+      "klasse": "Coca Cola 20x0.50l",
+      "datei": "19700101_021757_0769.jpg",
+      "split": "train"
+    },
+    {
+      "klasse": "Coca Cola 20x0.50l",
+      "datei": "19700101_021744_0763.jpg",
+      "split": "train"
+    },
+    {
+      "klasse": "Coca Cola 20x0.50l",
+      "datei": "19700101_021800_0770.jpg",
+      "split": "train"
+    },
+    {
+      "klasse": "Coca Cola 20x0.50l",
+      "datei": "19700101_021753_0768.jpg",
+      "split": "train"
+    },
+    {
+      "klasse": "Coca Cola 20x0.50l",
+      "datei": "19700101_021736_0758.jpg",
+      "split": "val"
+    },
+    {
+      "klasse": "Coca Cola 20x0.50l",
+      "datei": "19700101_021738_0760.jpg",
+      "split": "val"
+    },
+    {
+      "klasse": "Coca Cola 20x0.50l",
+      "datei": "19700101_021746_0764.jpg",
+      "split": "test"
+    },
+    {
+      "klasse": "Coca Cola 20x0.50l",
+      "datei": "19700101_021809_0772.jpg",
+      "split": "test"
+    },
+    {
+      "klasse": "Coca Cola Pet 12x1.00l",
+      "datei": "19700101_042922_0953.jpg",
+      "split": "train"
+    },
+    {
+      "klasse": "Coca Cola Pet 12x1.00l",
+      "datei": "19700101_043302_0971.jpg",
+      "split": "train"
+    },
+    {
+      "klasse": "Coca Cola Pet 12x1.00l",
+      "datei": "19700101_045358_1016.jpg",
+      "split": "train"
+    },
+    {
+      "klasse": "Coca Cola Pet 12x1.00l",
+      "datei": "19700101_045413_1018.jpg",
+      "split": "train"
+    },
+    {
+      "klasse": "Coca Cola Pet 12x1.00l",
+      "datei": "19700101_042932_0962.jpg",
+      "split": "train"
+    },
+    {
+      "klasse": "Coca Cola Pet 12x1.00l",
+      "datei": "19700101_042942_0967.jpg",
+      "split": "train"
+    },
+    {
+      "klasse": "Coca Cola Pet 12x1.00l",
+      "datei": "19700101_042937_0965.jpg",
+      "split": "val"
+    },
+    {
+      "klasse": "Coca Cola Pet 12x1.00l",
+      "datei": "19700101_042940_0966.jpg",
+      "split": "val"
+    },
+    {
+      "klasse": "Coca Cola Pet 12x1.00l",
+      "datei": "19700101_042948_0968.jpg",
+      "split": "test"
+    },
+    {
+      "klasse": "Coca Cola Pet 12x1.00l",
+      "datei": "19700101_042928_0959.jpg",
+      "split": "test"
+    },
+    {
+      "klasse": "Diebels 24x0.33l",
+      "datei": "19700101_015635_0240.jpg",
+      "split": "train"
+    },
+    {
+      "klasse": "Diebels 24x0.33l",
+      "datei": "19700101_015930_0312.jpg",
+      "split": "train"
+    },
+    {
+      "klasse": "Diebels 24x0.33l",
+      "datei": "19700101_015623_0229.jpg",
+      "split": "train"
+    },
+    {
+      "klasse": "Diebels 24x0.33l",
+      "datei": "19700101_015856_0296.jpg",
+      "split": "train"
+    },
+    {
+      "klasse": "Diebels 24x0.33l",
+      "datei": "19700101_015859_0299.jpg",
+      "split": "train"
+    },
+    {
+      "klasse": "Diebels 24x0.33l",
+      "datei": "19700101_015644_0248.jpg",
+      "split": "train"
+    },
+    {
+      "klasse": "Diebels 24x0.33l",
+      "datei": "19700101_015923_0307.jpg",
+      "split": "val"
+    },
+    {
+      "klasse": "Diebels 24x0.33l",
+      "datei": "19700101_015629_0235.jpg",
+      "split": "val"
+    },
+    {
+      "klasse": "Diebels 24x0.33l",
+      "datei": "19700101_015640_0245.jpg",
+      "split": "test"
+    },
+    {
+      "klasse": "Diebels 24x0.33l",
+      "datei": "19700101_015638_0242.jpg",
+      "split": "test"
+    },
+    {
+      "klasse": "Gerolsteiner 24x0.25l",
+      "datei": "19700101_020250_0546.jpg",
+      "split": "train"
+    },
+    {
+      "klasse": "Gerolsteiner 24x0.25l",
+      "datei": "19700101_020234_0515.jpg",
+      "split": "train"
+    },
+    {
+      "klasse": "Gerolsteiner 24x0.25l",
+      "datei": "19700101_020238_0523.jpg",
+      "split": "train"
+    },
+    {
+      "klasse": "Gerolsteiner 24x0.25l",
+      "datei": "19700101_015938_0317.jpg",
+      "split": "train"
+    },
+    {
+      "klasse": "Gerolsteiner 24x0.25l",
+      "datei": "19700101_015935_0313.jpg",
+      "split": "train"
+    },
+    {
+      "klasse": "Gerolsteiner 24x0.25l",
+      "datei": "19700101_015951_0333.jpg",
+      "split": "train"
+    },
+    {
+      "klasse": "Gerolsteiner 24x0.25l",
+      "datei": "19700101_020005_0349.jpg",
+      "split": "val"
+    },
+    {
+      "klasse": "Gerolsteiner 24x0.25l",
+      "datei": "19700101_015955_0337.jpg",
+      "split": "val"
+    },
+    {
+      "klasse": "Gerolsteiner 24x0.25l",
+      "datei": "19700101_015958_0341.jpg",
+      "split": "test"
+    },
+    {
+      "klasse": "Gerolsteiner 24x0.25l",
+      "datei": "19700101_020010_0353.jpg",
+      "split": "test"
+    },
+    {
+      "klasse": "Gerolsteiner Pet 12x1.00l",
+      "datei": "19700101_042918_0950.jpg",
+      "split": "train"
+    },
+    {
+      "klasse": "Gerolsteiner Pet 12x1.00l",
+      "datei": "19700101_042926_0955.jpg",
+      "split": "train"
+    },
+    {
+      "klasse": "Gerolsteiner Pet 12x1.00l",
+      "datei": "19700101_043320_0977.jpg",
+      "split": "train"
+    },
+    {
+      "klasse": "Gerolsteiner Pet 12x1.00l",
+      "datei": "19700101_045416_1020.jpg",
+      "split": "train"
+    },
+    {
+      "klasse": "Gerolsteiner Pet 12x1.00l",
+      "datei": "19700101_042926_0954.jpg",
+      "split": "train"
+    },
+    {
+      "klasse": "Gerolsteiner Pet 12x1.00l",
+      "datei": "19700101_045416_1019.jpg",
+      "split": "train"
+    },
+    {
+      "klasse": "Gerolsteiner Pet 12x1.00l",
+      "datei": "19700101_045356_1011.jpg",
+      "split": "val"
+    },
+    {
+      "klasse": "Gerolsteiner Pet 12x1.00l",
+      "datei": "19700101_042918_0951.jpg",
+      "split": "val"
+    },
+    {
+      "klasse": "Gerolsteiner Pet 12x1.00l",
+      "datei": "19700101_042931_0960.jpg",
+      "split": "test"
+    },
+    {
+      "klasse": "Gerolsteiner Pet 12x1.00l",
+      "datei": "19700101_045339_0999.jpg",
+      "split": "test"
+    },
+    {
+      "klasse": "Hansa 20x0.50l",
+      "datei": "19700101_045720_1080.jpg",
+      "split": "train"
+    },
+    {
+      "klasse": "Hansa 20x0.50l",
+      "datei": "19700101_045807_1096.jpg",
+      "split": "train"
+    },
+    {
+      "klasse": "Hansa 20x0.50l",
+      "datei": "19700101_023652_0775.jpg",
+      "split": "train"
+    },
+    {
+      "klasse": "Hansa 20x0.50l",
+      "datei": "19700101_025116_0777.jpg",
+      "split": "train"
+    },
+    {
+      "klasse": "Hansa 20x0.50l",
+      "datei": "19700101_025115_0776.jpg",
+      "split": "val"
+    },
+    {
+      "klasse": "Hansa 20x0.50l",
+      "datei": "19700101_025117_0778.jpg",
+      "split": "val"
+    },
+    {
+      "klasse": "Hansa 20x0.50l",
+      "datei": "19700101_045724_1085.jpg",
+      "split": "test"
+    },
+    {
+      "klasse": "Hansa 20x0.50l",
+      "datei": "19700101_045736_1088.jpg",
+      "split": "test"
+    },
+    {
+      "klasse": "Haus Cramer Offen 24x0.33l",
+      "datei": "19700101_012505_0032.jpg",
+      "split": "train"
+    },
+    {
+      "klasse": "Haus Cramer Offen 24x0.33l",
+      "datei": "19700101_012453_0017.jpg",
+      "split": "train"
+    },
+    {
+      "klasse": "Haus Cramer Offen 24x0.33l",
+      "datei": "19700101_012457_0022.jpg",
+      "split": "train"
+    },
+    {
+      "klasse": "Haus Cramer Offen 24x0.33l",
+      "datei": "19700101_013105_0090.jpg",
+      "split": "train"
+    },
+    {
+      "klasse": "Haus Cramer Offen 24x0.33l",
+      "datei": "19700101_012521_0046.jpg",
+      "split": "train"
+    },
+    {
+      "klasse": "Haus Cramer Offen 24x0.33l",
+      "datei": "19700101_013107_0096.jpg",
+      "split": "train"
+    },
+    {
+      "klasse": "Haus Cramer Offen 24x0.33l",
+      "datei": "19700101_013056_0072.jpg",
+      "split": "val"
+    },
+    {
+      "klasse": "Haus Cramer Offen 24x0.33l",
+      "datei": "19700101_013051_0063.jpg",
+      "split": "val"
+    },
+    {
+      "klasse": "Haus Cramer Offen 24x0.33l",
+      "datei": "19700101_013114_0105.jpg",
+      "split": "test"
+    },
+    {
+      "klasse": "Haus Cramer Offen 24x0.33l",
+      "datei": "19700101_013110_0100.jpg",
+      "split": "test"
+    },
+    {
+      "klasse": "Jever 24x0.33l",
+      "datei": "19700101_045705_1062.jpg",
+      "split": "train"
+    },
+    {
+      "klasse": "Jever 24x0.33l",
+      "datei": "19700101_045708_1066.jpg",
+      "split": "train"
+    },
+    {
+      "klasse": "Jever 24x0.33l",
+      "datei": "19700101_045716_1075.jpg",
+      "split": "train"
+    },
+    {
+      "klasse": "Jever 24x0.33l",
+      "datei": "19700101_045703_1058.jpg",
+      "split": "train"
+    },
+    {
+      "klasse": "Jever 24x0.33l",
+      "datei": "19700101_045710_1068.jpg",
+      "split": "train"
+    },
+    {
+      "klasse": "Jever 24x0.33l",
+      "datei": "19700101_045712_1070.jpg",
+      "split": "train"
+    },
+    {
+      "klasse": "Jever 24x0.33l",
+      "datei": "19700101_045701_1056.jpg",
+      "split": "val"
+    },
+    {
+      "klasse": "Jever 24x0.33l",
+      "datei": "19700101_045714_1072.jpg",
+      "split": "val"
+    },
+    {
+      "klasse": "Jever 24x0.33l",
+      "datei": "19700101_045716_1074.jpg",
+      "split": "test"
+    },
+    {
+      "klasse": "Jever 24x0.33l",
+      "datei": "19700101_045705_1061.jpg",
+      "split": "test"
+    },
+    {
+      "klasse": "Kromb. Radler 24x0.33l",
+      "datei": "19700101_045657_1054.jpg",
+      "split": "train"
+    },
+    {
+      "klasse": "Kromb. Radler 24x0.33l",
+      "datei": "19700101_045615_1045.jpg",
+      "split": "train"
+    },
+    {
+      "klasse": "Kromb. Radler 24x0.33l",
+      "datei": "19700101_045642_1051.jpg",
+      "split": "train"
+    },
+    {
+      "klasse": "Kromb. Radler 24x0.33l",
+      "datei": "19700101_045627_1047.jpg",
+      "split": "train"
+    },
+    {
+      "klasse": "Kromb. Radler 24x0.33l",
+      "datei": "19700101_045655_1053.jpg",
+      "split": "train"
+    },
+    {
+      "klasse": "Kromb. Radler 24x0.33l",
+      "datei": "19700101_045640_1050.jpg",
+      "split": "train"
+    },
+    {
+      "klasse": "Kromb. Radler 24x0.33l",
+      "datei": "19700101_045629_1049.jpg",
+      "split": "val"
+    },
+    {
+      "klasse": "Kromb. Radler 24x0.33l",
+      "datei": "19700101_045659_1055.jpg",
+      "split": "val"
+    },
+    {
+      "klasse": "Kromb. Radler 24x0.33l",
+      "datei": "19700101_045626_1046.jpg",
+      "split": "test"
+    },
+    {
+      "klasse": "Kromb. Radler 24x0.33l",
+      "datei": "19700101_045644_1052.jpg",
+      "split": "test"
+    },
+    {
+      "klasse": "König Pils Stub 20x0.33l",
+      "datei": "19700101_045834_1099.jpg",
+      "split": "train"
+    },
+    {
+      "klasse": "König Pils Stub 20x0.33l",
+      "datei": "19700101_045904_1103.jpg",
+      "split": "train"
+    },
+    {
+      "klasse": "König Pils Stub 20x0.33l",
+      "datei": "19700101_045908_1105.jpg",
+      "split": "train"
+    },
+    {
+      "klasse": "König Pils Stub 20x0.33l",
+      "datei": "19700101_045805_1095.jpg",
+      "split": "train"
+    },
+    {
+      "klasse": "König Pils Stub 20x0.33l",
+      "datei": "19700101_045832_1098.jpg",
+      "split": "train"
+    },
+    {
+      "klasse": "König Pils Stub 20x0.33l",
+      "datei": "19700101_045838_1101.jpg",
+      "split": "train"
+    },
+    {
+      "klasse": "König Pils Stub 20x0.33l",
+      "datei": "19700101_045840_1102.jpg",
+      "split": "val"
+    },
+    {
+      "klasse": "König Pils Stub 20x0.33l",
+      "datei": "19700101_045836_1100.jpg",
+      "split": "val"
+    },
+    {
+      "klasse": "König Pils Stub 20x0.33l",
+      "datei": "19700101_045906_1104.jpg",
+      "split": "test"
+    },
+    {
+      "klasse": "König Pils Stub 20x0.33l",
+      "datei": "19700101_045809_1097.jpg",
+      "split": "test"
+    },
+    {
+      "klasse": "Nürburg Quelle Pet-Cycle 12x1.00l",
+      "datei": "19700101_015737_0264.jpg",
+      "split": "train"
+    },
+    {
+      "klasse": "Nürburg Quelle Pet-Cycle 12x1.00l",
+      "datei": "19700101_015752_0276.jpg",
+      "split": "train"
+    },
+    {
+      "klasse": "Nürburg Quelle Pet-Cycle 12x1.00l",
+      "datei": "19700101_015741_0266.jpg",
+      "split": "train"
+    },
+    {
+      "klasse": "Nürburg Quelle Pet-Cycle 12x1.00l",
+      "datei": "19700101_015732_0257.jpg",
+      "split": "train"
+    },
+    {
+      "klasse": "Nürburg Quelle Pet-Cycle 12x1.00l",
+      "datei": "19700101_020017_0361.jpg",
+      "split": "train"
+    },
+    {
+      "klasse": "Nürburg Quelle Pet-Cycle 12x1.00l",
+      "datei": "19700101_015747_0270.jpg",
+      "split": "train"
+    },
+    {
+      "klasse": "Nürburg Quelle Pet-Cycle 12x1.00l",
+      "datei": "19700101_015744_0268.jpg",
+      "split": "val"
+    },
+    {
+      "klasse": "Nürburg Quelle Pet-Cycle 12x1.00l",
+      "datei": "19700101_015728_0253.jpg",
+      "split": "val"
+    },
+    {
+      "klasse": "Nürburg Quelle Pet-Cycle 12x1.00l",
+      "datei": "19700101_015749_0274.jpg",
+      "split": "test"
+    },
+    {
+      "klasse": "Nürburg Quelle Pet-Cycle 12x1.00l",
+      "datei": "19700101_015735_0260.jpg",
+      "split": "test"
+    },
+    {
+      "klasse": "Oscar Maxxum 20x0.50l",
+      "datei": "19700101_043405_0985.jpg",
+      "split": "train"
+    },
+    {
+      "klasse": "Oscar Maxxum 20x0.50l",
+      "datei": "19700101_045035_0988.jpg",
+      "split": "train"
+    },
+    {
+      "klasse": "Oscar Maxxum 20x0.50l",
+      "datei": "19700101_043401_0983.jpg",
+      "split": "train"
+    },
+    {
+      "klasse": "Oscar Maxxum 20x0.50l",
+      "datei": "19700101_043322_0978.jpg",
+      "split": "train"
+    },
+    {
+      "klasse": "Oscar Maxxum 20x0.50l",
+      "datei": "19700101_043403_0984.jpg",
+      "split": "train"
+    },
+    {
+      "klasse": "Oscar Maxxum 20x0.50l",
+      "datei": "19700101_043337_0980.jpg",
+      "split": "train"
+    },
+    {
+      "klasse": "Oscar Maxxum 20x0.50l",
+      "datei": "19700101_043335_0979.jpg",
+      "split": "val"
+    },
+    {
+      "klasse": "Oscar Maxxum 20x0.50l",
+      "datei": "19700101_043357_0981.jpg",
+      "split": "val"
+    },
+    {
+      "klasse": "Oscar Maxxum 20x0.50l",
+      "datei": "19700101_043531_0986.jpg",
+      "split": "test"
+    },
+    {
+      "klasse": "Oscar Maxxum 20x0.50l",
+      "datei": "19700101_043359_0982.jpg",
+      "split": "test"
+    },
+    {
+      "klasse": "Paulaner Spezi 20x0.50l",
+      "datei": "19700101_045504_1029.jpg",
+      "split": "train"
+    },
+    {
+      "klasse": "Paulaner Spezi 20x0.50l",
+      "datei": "19700101_045506_1030.jpg",
+      "split": "train"
+    },
+    {
+      "klasse": "Paulaner Spezi 20x0.50l",
+      "datei": "19700101_045502_1028.jpg",
+      "split": "train"
+    },
+    {
+      "klasse": "Paulaner Spezi 20x0.50l",
+      "datei": "19700101_045512_1033.jpg",
+      "split": "train"
+    },
+    {
+      "klasse": "Paulaner Spezi 20x0.50l",
+      "datei": "19700101_045519_1034.jpg",
+      "split": "train"
+    },
+    {
+      "klasse": "Paulaner Spezi 20x0.50l",
+      "datei": "19700101_045508_1031.jpg",
+      "split": "train"
+    },
+    {
+      "klasse": "Paulaner Spezi 20x0.50l",
+      "datei": "19700101_045500_1027.jpg",
+      "split": "val"
+    },
+    {
+      "klasse": "Paulaner Spezi 20x0.50l",
+      "datei": "19700101_045457_1026.jpg",
+      "split": "val"
+    },
+    {
+      "klasse": "Paulaner Spezi 20x0.50l",
+      "datei": "19700101_045447_1025.jpg",
+      "split": "test"
+    },
+    {
+      "klasse": "Paulaner Spezi 20x0.50l",
+      "datei": "19700101_045510_1032.jpg",
+      "split": "test"
+    },
+    {
+      "klasse": "Paulaner Teilbar 20x0.50l",
+      "datei": "19700101_045521_1035.jpg",
+      "split": "train"
+    },
+    {
+      "klasse": "Paulaner Teilbar 20x0.50l",
+      "datei": "19700101_045539_1038.jpg",
+      "split": "train"
+    },
+    {
+      "klasse": "Paulaner Teilbar 20x0.50l",
+      "datei": "19700101_045537_1037.jpg",
+      "split": "train"
+    },
+    {
+      "klasse": "Paulaner Teilbar 20x0.50l",
+      "datei": "19700101_045556_1040.jpg",
+      "split": "train"
+    },
+    {
+      "klasse": "Paulaner Teilbar 20x0.50l",
+      "datei": "19700101_045611_1043.jpg",
+      "split": "train"
+    },
+    {
+      "klasse": "Paulaner Teilbar 20x0.50l",
+      "datei": "19700101_045541_1039.jpg",
+      "split": "train"
+    },
+    {
+      "klasse": "Paulaner Teilbar 20x0.50l",
+      "datei": "19700101_045558_1041.jpg",
+      "split": "val"
+    },
+    {
+      "klasse": "Paulaner Teilbar 20x0.50l",
+      "datei": "19700101_045613_1044.jpg",
+      "split": "val"
+    },
+    {
+      "klasse": "Paulaner Teilbar 20x0.50l",
+      "datei": "19700101_045600_1042.jpg",
+      "split": "test"
+    },
+    {
+      "klasse": "Paulaner Teilbar 20x0.50l",
+      "datei": "19700101_045523_1036.jpg",
+      "split": "test"
+    },
+    {
+      "klasse": "Radeberger 24x0.33l",
+      "datei": "19700101_021220_0669.jpg",
+      "split": "train"
+    },
+    {
+      "klasse": "Radeberger 24x0.33l",
+      "datei": "19700101_020915_0631.jpg",
+      "split": "train"
+    },
+    {
+      "klasse": "Radeberger 24x0.33l",
+      "datei": "19700101_021247_0699.jpg",
+      "split": "train"
+    },
+    {
+      "klasse": "Radeberger 24x0.33l",
+      "datei": "19700101_020922_0642.jpg",
+      "split": "train"
+    },
+    {
+      "klasse": "Radeberger 24x0.33l",
+      "datei": "19700101_020948_0661.jpg",
+      "split": "train"
+    },
+    {
+      "klasse": "Radeberger 24x0.33l",
+      "datei": "19700101_021223_0674.jpg",
+      "split": "train"
+    },
+    {
+      "klasse": "Radeberger 24x0.33l",
+      "datei": "19700101_021230_0684.jpg",
+      "split": "val"
+    },
+    {
+      "klasse": "Radeberger 24x0.33l",
+      "datei": "19700101_020953_0662.jpg",
+      "split": "val"
+    },
+    {
+      "klasse": "Radeberger 24x0.33l",
+      "datei": "19700101_020934_0653.jpg",
+      "split": "test"
+    },
+    {
+      "klasse": "Radeberger 24x0.33l",
+      "datei": "19700101_021233_0689.jpg",
+      "split": "test"
+    },
+    {
+      "klasse": "Reissdorf 24x0.33l",
+      "datei": "19700101_030136_0791.jpg",
+      "split": "train"
+    },
+    {
+      "klasse": "Reissdorf 24x0.33l",
+      "datei": "19700101_030142_0793.jpg",
+      "split": "train"
+    },
+    {
+      "klasse": "Reissdorf 24x0.33l",
+      "datei": "19700101_042744_0921.jpg",
+      "split": "train"
+    },
+    {
+      "klasse": "Reissdorf 24x0.33l",
+      "datei": "19700101_030132_0789.jpg",
+      "split": "train"
+    },
+    {
+      "klasse": "Reissdorf 24x0.33l",
+      "datei": "19700101_042748_0922.jpg",
+      "split": "train"
+    },
+    {
+      "klasse": "Reissdorf 24x0.33l",
+      "datei": "19700101_042751_0923.jpg",
+      "split": "train"
+    },
+    {
+      "klasse": "Reissdorf 24x0.33l",
+      "datei": "19700101_042725_0915.jpg",
+      "split": "val"
+    },
+    {
+      "klasse": "Reissdorf 24x0.33l",
+      "datei": "19700101_042738_0919.jpg",
+      "split": "val"
+    },
+    {
+      "klasse": "Reissdorf 24x0.33l",
+      "datei": "19700101_042741_0920.jpg",
+      "split": "test"
+    },
+    {
+      "klasse": "Reissdorf 24x0.33l",
+      "datei": "19700101_042729_0916.jpg",
+      "split": "test"
+    },
+    {
+      "klasse": "Reissdorf Dsp 24x0.33l",
+      "datei": "19700101_013132_0122.jpg",
+      "split": "train"
+    },
+    {
+      "klasse": "Reissdorf Dsp 24x0.33l",
+      "datei": "19700101_013125_0116.jpg",
+      "split": "train"
+    },
+    {
+      "klasse": "Reissdorf Dsp 24x0.33l",
+      "datei": "19700101_013727_0132.jpg",
+      "split": "train"
+    },
+    {
+      "klasse": "Reissdorf Dsp 24x0.33l",
+      "datei": "19700101_013736_0134.jpg",
+      "split": "train"
+    },
+    {
+      "klasse": "Reissdorf Dsp 24x0.33l",
+      "datei": "19700101_013741_0135.jpg",
+      "split": "train"
+    },
+    {
+      "klasse": "Reissdorf Dsp 24x0.33l",
+      "datei": "19700101_013711_0130.jpg",
+      "split": "train"
+    },
+    {
+      "klasse": "Reissdorf Dsp 24x0.33l",
+      "datei": "19700101_013137_0125.jpg",
+      "split": "val"
+    },
+    {
+      "klasse": "Reissdorf Dsp 24x0.33l",
+      "datei": "19700101_012346_0002.jpg",
+      "split": "val"
+    },
+    {
+      "klasse": "Reissdorf Dsp 24x0.33l",
+      "datei": "19700101_013658_0128.jpg",
+      "split": "test"
+    },
+    {
+      "klasse": "Reissdorf Dsp 24x0.33l",
+      "datei": "19700101_012406_0004.jpg",
+      "split": "test"
+    },
+    {
+      "klasse": "Rheinfels Pet 12x1.00l",
+      "datei": "19700101_045308_0993.jpg",
+      "split": "train"
+    },
+    {
+      "klasse": "Rheinfels Pet 12x1.00l",
+      "datei": "19700101_045310_0994.jpg",
+      "split": "train"
+    },
+    {
+      "klasse": "Rheinfels Pet 12x1.00l",
+      "datei": "19700101_045327_0997.jpg",
+      "split": "train"
+    },
+    {
+      "klasse": "Rheinfels Pet 12x1.00l",
+      "datei": "19700101_045325_0996.jpg",
+      "split": "train"
+    },
+    {
+      "klasse": "Rheinfels Pet 12x1.00l",
+      "datei": "19700101_045323_0995.jpg",
+      "split": "train"
+    },
+    {
+      "klasse": "Rheinfels Pet 12x1.00l",
+      "datei": "19700101_045251_0991.jpg",
+      "split": "train"
+    },
+    {
+      "klasse": "Rheinfels Pet 12x1.00l",
+      "datei": "19700101_045330_0998.jpg",
+      "split": "val"
+    },
+    {
+      "klasse": "Rheinfels Pet 12x1.00l",
+      "datei": "19700101_045249_0990.jpg",
+      "split": "val"
+    },
+    {
+      "klasse": "Rheinfels Pet 12x1.00l",
+      "datei": "19700101_045306_0992.jpg",
+      "split": "test"
+    },
+    {
+      "klasse": "Rheinfels Pet 12x1.00l",
+      "datei": "19700101_045214_0989.jpg",
+      "split": "test"
+    },
+    {
+      "klasse": "Salvus Pet-Cycle 12x1.00l",
+      "datei": "19700101_015432_0201.jpg",
+      "split": "train"
+    },
+    {
+      "klasse": "Salvus Pet-Cycle 12x1.00l",
+      "datei": "19700101_015411_0195.jpg",
+      "split": "train"
+    },
+    {
+      "klasse": "Salvus Pet-Cycle 12x1.00l",
+      "datei": "19700101_015409_0194.jpg",
+      "split": "train"
+    },
+    {
+      "klasse": "Salvus Pet-Cycle 12x1.00l",
+      "datei": "19700101_015456_0203.jpg",
+      "split": "train"
+    },
+    {
+      "klasse": "Salvus Pet-Cycle 12x1.00l",
+      "datei": "19700101_015430_0200.jpg",
+      "split": "train"
+    },
+    {
+      "klasse": "Salvus Pet-Cycle 12x1.00l",
+      "datei": "19700101_015419_0198.jpg",
+      "split": "train"
+    },
+    {
+      "klasse": "Salvus Pet-Cycle 12x1.00l",
+      "datei": "19700101_015421_0199.jpg",
+      "split": "val"
+    },
+    {
+      "klasse": "Salvus Pet-Cycle 12x1.00l",
+      "datei": "19700101_015413_0196.jpg",
+      "split": "val"
+    },
+    {
+      "klasse": "Salvus Pet-Cycle 12x1.00l",
+      "datei": "19700101_015434_0202.jpg",
+      "split": "test"
+    },
+    {
+      "klasse": "Salvus Pet-Cycle 12x1.00l",
+      "datei": "19700101_015417_0197.jpg",
+      "split": "test"
+    },
+    {
+      "klasse": "Staatl. Fachingen 12x0.75l",
+      "datei": "19700101_021557_0745.jpg",
+      "split": "train"
+    },
+    {
+      "klasse": "Staatl. Fachingen 12x0.75l",
+      "datei": "19700101_021329_0711.jpg",
+      "split": "train"
+    },
+    {
+      "klasse": "Staatl. Fachingen 12x0.75l",
+      "datei": "19700101_021543_0740.jpg",
+      "split": "train"
+    },
+    {
+      "klasse": "Staatl. Fachingen 12x0.75l",
+      "datei": "19700101_021323_0705.jpg",
+      "split": "train"
+    },
+    {
+      "klasse": "Staatl. Fachingen 12x0.75l",
+      "datei": "19700101_021552_0744.jpg",
+      "split": "train"
+    },
+    {
+      "klasse": "Staatl. Fachingen 12x0.75l",
+      "datei": "19700101_021334_0715.jpg",
+      "split": "train"
+    },
+    {
+      "klasse": "Staatl. Fachingen 12x0.75l",
+      "datei": "19700101_021317_0702.jpg",
+      "split": "val"
+    },
+    {
+      "klasse": "Staatl. Fachingen 12x0.75l",
+      "datei": "19700101_021321_0704.jpg",
+      "split": "val"
+    },
+    {
+      "klasse": "Staatl. Fachingen 12x0.75l",
+      "datei": "19700101_021326_0707.jpg",
+      "split": "test"
+    },
+    {
+      "klasse": "Staatl. Fachingen 12x0.75l",
+      "datei": "19700101_021522_0732.jpg",
+      "split": "test"
+    },
+    {
+      "klasse": "Stauder 20x0.50l",
+      "datei": "19700101_020637_0623.jpg",
+      "split": "train"
+    },
+    {
+      "klasse": "Stauder 20x0.50l",
+      "datei": "19700101_020538_0591.jpg",
+      "split": "train"
+    },
+    {
+      "klasse": "Stauder 20x0.50l",
+      "datei": "19700101_020617_0613.jpg",
+      "split": "train"
+    },
+    {
+      "klasse": "Stauder 20x0.50l",
+      "datei": "19700101_020627_0618.jpg",
+      "split": "train"
+    },
+    {
+      "klasse": "Stauder 20x0.50l",
+      "datei": "19700101_020331_0563.jpg",
+      "split": "train"
+    },
+    {
+      "klasse": "Stauder 20x0.50l",
+      "datei": "19700101_020345_0571.jpg",
+      "split": "train"
+    },
+    {
+      "klasse": "Stauder 20x0.50l",
+      "datei": "19700101_020634_0622.jpg",
+      "split": "val"
+    },
+    {
+      "klasse": "Stauder 20x0.50l",
+      "datei": "19700101_020324_0560.jpg",
+      "split": "val"
+    },
+    {
+      "klasse": "Stauder 20x0.50l",
+      "datei": "19700101_020321_0556.jpg",
+      "split": "test"
+    },
+    {
+      "klasse": "Stauder 20x0.50l",
+      "datei": "19700101_020631_0620.jpg",
+      "split": "test"
+    },
+    {
+      "klasse": "Stauder Dsp 20x0.50l",
+      "datei": "19700101_020142_0498.jpg",
+      "split": "train"
+    },
+    {
+      "klasse": "Stauder Dsp 20x0.50l",
+      "datei": "19700101_020100_0427.jpg",
+      "split": "train"
+    },
+    {
+      "klasse": "Stauder Dsp 20x0.50l",
+      "datei": "19700101_020140_0494.jpg",
+      "split": "train"
+    },
+    {
+      "klasse": "Stauder Dsp 20x0.50l",
+      "datei": "19700101_020112_0479.jpg",
+      "split": "train"
+    },
+    {
+      "klasse": "Stauder Dsp 20x0.50l",
+      "datei": "19700101_020149_0504.jpg",
+      "split": "train"
+    },
+    {
+      "klasse": "Stauder Dsp 20x0.50l",
+      "datei": "19700101_020602_0606.jpg",
+      "split": "train"
+    },
+    {
+      "klasse": "Stauder Dsp 20x0.50l",
+      "datei": "19700101_020110_0473.jpg",
+      "split": "val"
+    },
+    {
+      "klasse": "Stauder Dsp 20x0.50l",
+      "datei": "19700101_020526_0585.jpg",
+      "split": "val"
+    },
+    {
+      "klasse": "Stauder Dsp 20x0.50l",
+      "datei": "19700101_020546_0596.jpg",
+      "split": "test"
+    },
+    {
+      "klasse": "Stauder Dsp 20x0.50l",
+      "datei": "19700101_020115_0483.jpg",
+      "split": "test"
+    },
+    {
+      "klasse": "Traugott Alt 20x0.50l",
+      "datei": "19700101_021731_0755.jpg",
+      "split": "train"
+    },
+    {
+      "klasse": "Traugott Alt 20x0.50l",
+      "datei": "19700101_021414_0726.jpg",
+      "split": "train"
+    },
+    {
+      "klasse": "Traugott Alt 20x0.50l",
+      "datei": "19700101_021425_0729.jpg",
+      "split": "train"
+    },
+    {
+      "klasse": "Traugott Alt 20x0.50l",
+      "datei": "19700101_021721_0750.jpg",
+      "split": "train"
+    },
+    {
+      "klasse": "Traugott Alt 20x0.50l",
+      "datei": "19700101_021433_0731.jpg",
+      "split": "train"
+    },
+    {
+      "klasse": "Traugott Alt 20x0.50l",
+      "datei": "19700101_021613_0748.jpg",
+      "split": "train"
+    },
+    {
+      "klasse": "Traugott Alt 20x0.50l",
+      "datei": "19700101_021405_0723.jpg",
+      "split": "val"
+    },
+    {
+      "klasse": "Traugott Alt 20x0.50l",
+      "datei": "19700101_021734_0757.jpg",
+      "split": "val"
+    },
+    {
+      "klasse": "Traugott Alt 20x0.50l",
+      "datei": "19700101_021724_0752.jpg",
+      "split": "test"
+    },
+    {
+      "klasse": "Traugott Alt 20x0.50l",
+      "datei": "19700101_021411_0725.jpg",
+      "split": "test"
+    },
+    {
+      "klasse": "Vita Malz 24x0.33l",
+      "datei": "19700101_042654_0912.jpg",
+      "split": "train"
+    },
+    {
+      "klasse": "Vita Malz 24x0.33l",
+      "datei": "19700101_042630_0906.jpg",
+      "split": "train"
+    },
+    {
+      "klasse": "Vita Malz 24x0.33l",
+      "datei": "19700101_030345_0860.jpg",
+      "split": "train"
+    },
+    {
+      "klasse": "Vita Malz 24x0.33l",
+      "datei": "19700101_030323_0853.jpg",
+      "split": "train"
+    },
+    {
+      "klasse": "Vita Malz 24x0.33l",
+      "datei": "19700101_042649_0911.jpg",
+      "split": "train"
+    },
+    {
+      "klasse": "Vita Malz 24x0.33l",
+      "datei": "19700101_030335_0855.jpg",
+      "split": "train"
+    },
+    {
+      "klasse": "Vita Malz 24x0.33l",
+      "datei": "19700101_030341_0858.jpg",
+      "split": "val"
+    },
+    {
+      "klasse": "Vita Malz 24x0.33l",
+      "datei": "19700101_042640_0909.jpg",
+      "split": "val"
+    },
+    {
+      "klasse": "Vita Malz 24x0.33l",
+      "datei": "19700101_042635_0907.jpg",
+      "split": "test"
+    },
+    {
+      "klasse": "Vita Malz 24x0.33l",
+      "datei": "19700101_030337_0856.jpg",
+      "split": "test"
+    },
+    {
+      "klasse": "Wicküler 20x0.50l",
+      "datei": "19700101_042600_0904.jpg",
+      "split": "train"
+    },
+    {
+      "klasse": "Wicküler 20x0.50l",
+      "datei": "19700101_042521_0895.jpg",
+      "split": "train"
+    },
+    {
+      "klasse": "Wicküler 20x0.50l",
+      "datei": "19700101_042551_0902.jpg",
+      "split": "train"
+    },
+    {
+      "klasse": "Wicküler 20x0.50l",
+      "datei": "19700101_042539_0900.jpg",
+      "split": "train"
+    },
+    {
+      "klasse": "Wicküler 20x0.50l",
+      "datei": "19700101_042522_0896.jpg",
+      "split": "train"
+    },
+    {
+      "klasse": "Wicküler 20x0.50l",
+      "datei": "19700101_042526_0897.jpg",
+      "split": "train"
+    },
+    {
+      "klasse": "Wicküler 20x0.50l",
+      "datei": "19700101_042555_0903.jpg",
+      "split": "val"
+    },
+    {
+      "klasse": "Wicküler 20x0.50l",
+      "datei": "19700101_042531_0898.jpg",
+      "split": "val"
+    },
+    {
+      "klasse": "Wicküler 20x0.50l",
+      "datei": "19700101_042545_0901.jpg",
+      "split": "test"
+    },
+    {
+      "klasse": "Wicküler 20x0.50l",
+      "datei": "19700101_030300_0847.jpg",
+      "split": "test"
+    }
+  ]
+}
