@@ -10,9 +10,9 @@ Trained with Ultralytics YOLO under [GNU AGPL v3](LICENSE).
 
 - Tested with:
 
-```bash
-yolo classify val model=/content/runs/classify/train/weights/best.pt data=/content/dataset split=test imgsz=224
-```
+  ```bash
+  yolo classify val model=/content/runs/classify/train/weights/best.pt data=/content/dataset split=test imgsz=224
+  ```
 
 ## License
 This model is licensed under the GNU Affero General Public License v3.
