@@ -85,7 +85,7 @@ durchgang,nr,beleuchtung,klasse_nr,gebindetyp,erkannt,konfidenz,richtig,verarbei
 9,4,nein,3,"Beck's Bier 20 × 0,50 l","Beck's Bier 20 × 0,50 l",1.00,ja,3,51
 9,5,nein,9,"Diebels 24 × 0,33 l","Diebels 24 × 0,33 l",0.99,ja,2,88
 9,6,nein,15,"Kromb. Radler 24 × 0,33 l","Kromb. Radler 24 × 0,33 l",0.85,ja,3,41
-9,7,nein,24,"Rheinfels PET 12 × 1,00 l","Gerolsteiner 24 × 0,25 l",0.25,nein,6,91
+9,7,nein,24,"Rheinfels PET 12 × 1,00 l","Gerolsteiner PET 12 × 1,00 l",0.25,nein,6,91
 9,8,nein,19,"Paulaner Spezi 20 × 0,50 l","Paulaner Spezi 20 × 0,50 l",0.99,ja,3,73
 9,9,nein,8,"Coca Cola PET 12 × 1,00 l","Coca Cola PET 12 × 1,00 l",0.96,ja,2,88
 9,10,nein,11,"Gerolsteiner PET 12 × 1,00 l","Gerolsteiner PET 12 × 1,00 l",0.90,ja,3,19
