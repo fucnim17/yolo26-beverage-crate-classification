@@ -1,0 +1,91 @@
+durchgang,nr,beleuchtung,klasse_nr,gebindetyp,erkannt,konfidenz,richtig,verarbeitungszeit_ms,wartezeit_ms
+1,1,ja,24,"Rheinfels PET 12 × 1,00 l","Rheinfels PET 12 × 1,00 l",0.96,ja,,
+1,2,ja,12,"Hansa 20 × 0,50 l","Hansa 20 × 0,50 l",1.00,ja,,
+1,3,ja,15,"Kromb. Radler 24 × 0,33 l","Kromb. Radler 24 × 0,33 l",0.99,ja,,
+1,4,ja,11,"Gerolsteiner PET 12 × 1,00 l","Gerolsteiner PET 12 × 1,00 l",1.00,ja,,
+1,5,ja,8,"Coca Cola PET 12 × 1,00 l","Coca Cola PET 12 × 1,00 l",1.00,ja,,
+1,6,ja,23,"Reissdorf Dsp 24 × 0,33 l","Reissdorf Dsp 24 × 0,33 l",0.96,ja,,
+1,7,ja,25,"Salvus Pet-Cycle 12 × 1,00 l","Salvus Pet-Cycle 12 × 1,00 l",1.00,ja,,
+1,8,ja,2,"Bayr. Brauhaus 20 × 0,50 l","Bayr. Brauhaus 20 × 0,50 l",0.99,ja,,
+1,9,ja,9,"Diebels 24 × 0,33 l","Diebels 24 × 0,33 l",0.94,ja,,
+1,10,ja,3,"Beck's Bier 20 × 0,50 l","Beck's Bier 20 × 0,50 l",1.00,ja,,
+2,1,ja,18,"Oscar Maxxum 20 × 0,50 l","Oscar Maxxum 20 × 0,50 l",0.93,ja,,
+2,2,ja,30,"Vita Malz 24 × 0,33 l","Vita Malz 24 × 0,33 l",1.00,ja,,
+2,3,ja,8,"Coca Cola PET 12 × 1,00 l","Coca Cola PET 12 × 1,00 l",0.99,ja,,
+2,4,ja,22,"Reissdorf 24 × 0,33 l","Reissdorf 24 × 0,33 l",0.99,ja,,
+2,5,ja,11,"Gerolsteiner PET 12 × 1,00 l","Gerolsteiner PET 12 × 1,00 l",1.00,ja,,
+2,6,ja,25,"Salvus Pet-Cycle 12 × 1,00 l","Salvus Pet-Cycle 12 × 1,00 l",1.00,ja,,
+2,7,ja,3,"Beck's Bier 20 × 0,50 l","Beck's Bier 20 × 0,50 l",1.00,ja,,
+2,8,ja,6,"Budweiser 20 × 0,50 l","Budweiser 20 × 0,50 l",0.99,ja,,
+2,9,ja,13,"Haus Cramer Offen 24 × 0,33 l","Haus Cramer Offen 24 × 0,33 l",0.84,ja,,
+2,10,ja,9,"Diebels 24 × 0,33 l","Diebels 24 × 0,33 l",0.99,ja,,
+3,1,ja,20,"Paulaner Teilbar 20 × 0,50 l","Paulaner Teilbar 20 × 0,50 l",1.00,ja,,
+3,2,ja,1,"Allgäuer Bügel 20 × 0,50 l","Allgäuer Bügel 20 × 0,50 l",1.00,ja,,
+3,3,ja,19,"Paulaner Spezi 20 × 0,50 l","Paulaner Spezi 20 × 0,50 l",1.00,ja,,
+3,4,ja,3,"Beck's Bier 20 × 0,50 l","Beck's Bier 20 × 0,50 l",1.00,ja,,
+3,5,ja,25,"Salvus Pet-Cycle 12 × 1,00 l","Salvus Pet-Cycle 12 × 1,00 l",1.00,ja,,
+3,6,ja,27,"Stauder 20 × 0,50 l","Stauder 20 × 0,50 l",0.99,ja,,
+3,7,ja,28,"Stauder Dsp 20 × 0,50 l","Stauder Dsp 20 × 0,50 l",1.00,ja,,
+3,8,ja,17,"Nürburg Quelle Pet-Cycle 12 × 1,00 l","Nürburg Quelle Pet-Cycle 12 × 1,00 l",1.00,ja,,
+3,9,ja,10,"Gerolsteiner 24 × 0,25 l","Gerolsteiner 24 × 0,25 l",0.99,ja,,
+3,10,ja,5,"Brinkhoffs 20 × 0,50 l","Brinkhoffs 20 × 0,50 l",1.00,ja,,
+4,1,ja,14,"Jever 24 × 0,33 l","Jever 24 × 0,33 l",0.98,ja,,
+4,2,ja,8,"Coca Cola PET 12 × 1,00 l","Coca Cola PET 12 × 1,00 l",0.99,ja,,
+4,3,ja,25,"Salvus Pet-Cycle 12 × 1,00 l","Salvus Pet-Cycle 12 × 1,00 l",1.00,ja,,
+4,4,ja,6,"Budweiser 20 × 0,50 l","Budweiser 20 × 0,50 l",1.00,ja,,
+4,5,ja,13,"Haus Cramer Offen 24 × 0,33 l","Haus Cramer Offen 24 × 0,33 l",0.97,ja,,
+4,6,ja,23,"Reissdorf Dsp 24 × 0,33 l","Reissdorf Dsp 24 × 0,33 l",0.95,ja,,
+4,7,ja,9,"Diebels 24 × 0,33 l","Diebels 24 × 0,33 l",0.94,ja,,
+4,8,ja,2,"Bayr. Brauhaus 20 × 0,50 l","Bayr. Brauhaus 20 × 0,50 l",0.99,ja,,
+4,9,ja,5,"Brinkhoffs 20 × 0,50 l","Brinkhoffs 20 × 0,50 l",1.00,ja,,
+4,10,ja,3,"Beck's Bier 20 × 0,50 l","Beck's Bier 20 × 0,50 l",1.00,ja,,
+5,1,ja,25,"Salvus Pet-Cycle 12 × 1,00 l","Salvus Pet-Cycle 12 × 1,00 l",1.00,ja,,
+5,2,ja,2,"Bayr. Brauhaus 20 × 0,50 l","Bayr. Brauhaus 20 × 0,50 l",1.00,ja,,
+5,3,ja,3,"Beck's Bier 20 × 0,50 l","Beck's Bier 20 × 0,50 l",1.00,ja,,
+5,4,ja,25,"Salvus Pet-Cycle 12 × 1,00 l","Salvus Pet-Cycle 12 × 1,00 l",1.00,ja,,
+5,5,ja,3,"Beck's Bier 20 × 0,50 l","Beck's Bier 20 × 0,50 l",1.00,ja,,
+5,6,ja,6,"Budweiser 20 × 0,50 l","Budweiser 20 × 0,50 l",1.00,ja,,
+5,7,ja,13,"Haus Cramer Offen 24 × 0,33 l","Haus Cramer Offen 24 × 0,33 l",0.99,ja,,
+5,8,ja,23,"Reissdorf Dsp 24 × 0,33 l","Reissdorf Dsp 24 × 0,33 l",0.98,ja,,
+5,9,ja,9,"Diebels 24 × 0,33 l","Diebels 24 × 0,33 l",0.99,ja,,
+5,10,ja,17,"Nürburg Quelle Pet-Cycle 12 × 1,00 l","Nürburg Quelle Pet-Cycle 12 × 1,00 l",0.99,ja,,
+6,1,ja,6,"Budweiser 20 × 0,50 l","Budweiser 20 × 0,50 l",0.99,ja,,
+6,2,ja,25,"Salvus Pet-Cycle 12 × 1,00 l","Salvus Pet-Cycle 12 × 1,00 l",1.00,ja,,
+6,3,ja,31,"Wicküler 20 × 0,50 l","Wicküler 20 × 0,50 l",0.99,ja,,
+6,4,ja,2,"Bayr. Brauhaus 20 × 0,50 l","Bayr. Brauhaus 20 × 0,50 l",1.00,ja,,
+6,5,ja,28,"Stauder Dsp 20 × 0,50 l","Stauder Dsp 20 × 0,50 l",1.00,ja,,
+6,6,ja,23,"Reissdorf Dsp 24 × 0,33 l","Reissdorf Dsp 24 × 0,33 l",1.00,ja,,
+6,7,ja,28,"Stauder Dsp 20 × 0,50 l","Stauder Dsp 20 × 0,50 l",0.99,ja,,
+6,8,ja,13,"Haus Cramer Offen 24 × 0,33 l","Haus Cramer Offen 24 × 0,33 l",0.98,ja,,
+6,9,ja,28,"Stauder Dsp 20 × 0,50 l","Stauder Dsp 20 × 0,50 l",1.00,ja,,
+6,10,ja,12,"Hansa 20 × 0,50 l","Hansa 20 × 0,50 l",0.96,ja,,
+7,1,ja,21,"Radeberger 24 × 0,33 l","Radeberger 24 × 0,33 l",0.98,ja,,
+7,2,ja,26,"Staatl. Fachingen 12 × 0,75 l","Staatl. Fachingen 12 × 0,75 l",0.96,ja,,
+7,3,ja,12,"Hansa 20 × 0,50 l","Hansa 20 × 0,50 l",1.00,ja,,
+7,4,ja,24,"Rheinfels PET 12 × 1,00 l","Rheinfels PET 12 × 1,00 l",0.95,ja,,
+7,5,ja,29,"Traugott Alt 20 × 0,50 l","Traugott Alt 20 × 0,50 l",1.00,ja,,
+7,6,ja,28,"Stauder Dsp 20 × 0,50 l","Stauder Dsp 20 × 0,50 l",0.99,ja,,
+7,7,ja,29,"Traugott Alt 20 × 0,50 l","Traugott Alt 20 × 0,50 l",0.99,ja,,
+7,8,ja,7,"Coca Cola 20 × 0,50 l","Coca Cola 20 × 0,50 l",1.00,ja,,
+7,9,ja,24,"Rheinfels PET 12 × 1,00 l","Rheinfels PET 12 × 1,00 l",0.96,ja,,
+7,10,ja,12,"Hansa 20 × 0,50 l","Hansa 20 × 0,50 l",1.00,ja,,
+8,1,nein,20,"Paulaner Teilbar 20 × 0,50 l","Paulaner Teilbar 20 × 0,50 l",0.64,ja,3,88
+8,2,nein,15,"Kromb. Radler 24 × 0,33 l","Kromb. Radler 24 × 0,33 l",0.58,ja,3,47
+8,3,nein,14,"Jever 24 × 0,33 l","Jever 24 × 0,33 l",0.95,ja,3,13
+8,4,nein,20,"Paulaner Teilbar 20 × 0,50 l","Paulaner Teilbar 20 × 0,50 l",0.67,ja,3,88
+8,5,nein,20,"Paulaner Teilbar 20 × 0,50 l","Paulaner Teilbar 20 × 0,50 l",0.83,ja,3,78
+8,6,nein,12,"Hansa 20 × 0,50 l","Hansa 20 × 0,50 l",0.75,ja,3,13
+8,7,nein,20,"Paulaner Teilbar 20 × 0,50 l","Paulaner Teilbar 20 × 0,50 l",0.55,ja,3,33
+8,8,nein,23,"Reissdorf Dsp 24 × 0,33 l","Reissdorf Dsp 24 × 0,33 l",0.99,ja,3,44
+8,9,nein,15,"Kromb. Radler 24 × 0,33 l","Kromb. Radler 24 × 0,33 l",0.93,ja,3,76
+8,10,nein,13,"Haus Cramer Offen 24 × 0,33 l","Haus Cramer Offen 24 × 0,33 l",0.31,ja,3,16
+9,1,nein,5,"Brinkhoffs 20 × 0,50 l","Brinkhoffs 20 × 0,50 l",0.97,ja,6,81
+9,2,nein,2,"Bayr. Brauhaus 20 × 0,50 l","Bayr. Brauhaus 20 × 0,50 l",0.95,ja,7,22
+9,3,nein,17,"Nürburg Quelle Pet-Cycle 12 × 1,00 l","Nürburg Quelle Pet-Cycle 12 × 1,00 l",0.70,ja,3,56
+9,4,nein,3,"Beck's Bier 20 × 0,50 l","Beck's Bier 20 × 0,50 l",1.00,ja,3,51
+9,5,nein,9,"Diebels 24 × 0,33 l","Diebels 24 × 0,33 l",0.99,ja,2,88
+9,6,nein,15,"Kromb. Radler 24 × 0,33 l","Kromb. Radler 24 × 0,33 l",0.85,ja,3,41
+9,7,nein,24,"Rheinfels PET 12 × 1,00 l","Gerolsteiner 24 × 0,25 l",0.25,nein,6,91
+9,8,nein,19,"Paulaner Spezi 20 × 0,50 l","Paulaner Spezi 20 × 0,50 l",0.99,ja,3,73
+9,9,nein,8,"Coca Cola PET 12 × 1,00 l","Coca Cola PET 12 × 1,00 l",0.96,ja,2,88
+9,10,nein,11,"Gerolsteiner PET 12 × 1,00 l","Gerolsteiner PET 12 × 1,00 l",0.90,ja,3,19
